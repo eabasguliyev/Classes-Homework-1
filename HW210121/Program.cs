@@ -9,7 +9,7 @@ namespace HW210121
         {
             //Exercise1();
             //Exercise2();
-            //Exercise3();
+            Exercise3();
             //Exercise4();
         }
 
@@ -40,7 +40,9 @@ namespace HW210121
 
         static void Exercise3()
         {
+            var f1 = new Fraction(81 ,243);
 
+            f1.Show();
         }
 
         static void Exercise4()
